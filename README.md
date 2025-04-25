@@ -33,7 +33,11 @@ This project applies machine learning techniques to predict diabetes based on he
 ## 📊 Results
 
 - **Most Important Features**: `HbA1c`, `Fasting_Blood_Glucose`, `Age`
-- **Model Accuracy**: Very high (~100% AUC)
+- **Most Important Features**: `HbA1c`, `Fasting_Blood_Glucose`, `Age`
+- **Model AUC Score**: ~1.0 (Excellent class separation)
+- **Model Accuracy**: Very high (~97% to 99%)
+- **Insights**: Blood sugar-related features dominate diabetes prediction.
+
 - **Insights**: Blood sugar-related features dominate diabetes prediction.
 
 ---
