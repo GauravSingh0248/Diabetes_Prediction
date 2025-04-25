@@ -1,4 +1,5 @@
 # Diabetes_Prediction
+if failed to open the file .. checkout here -- https://nbviewer.org/github/GauravSingh0248/Diabetes_Prediction/blob/main/Diabetes_Prediction_Cleaned.ipynb
 # 🦧 Diabetes Prediction Using Machine Learning
 
 This project applies machine learning techniques to predict diabetes based on health, lifestyle, and clinical factors. The model is trained and evaluated using real-world health metrics like fasting blood glucose and HbA1c levels.
